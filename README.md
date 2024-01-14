@@ -14,8 +14,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo-name.git`
-2. Navigate into the project directory: `cd your-repo-name`
+1. Clone the repository: `git clone https://github.com/unaicc/node_backend.git`
+2. Navigate into the project directory: `cd node_backend`
 3. Install the dependencies: `npm install`
 4. Create a `.env` file in the root of your project and add your database configuration:
 
