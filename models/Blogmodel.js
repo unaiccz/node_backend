@@ -1,4 +1,5 @@
-*Set up your model*
+//Set up your model
+//docs => https://sequelize.org/docs/v6/core-concepts/model-basics/
 import db from "../database/db.js";
 import { DataTypes } from "sequelize";
 
