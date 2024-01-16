@@ -3,14 +3,13 @@
 This is a simple Blog API built with Node.js, Express, and Sequelize. It provides endpoints for creating and retrieving blog posts.
 
 ## Getting Started
-
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-- Node.js
-- npm
-- MySQL
+> Node.js
+> npm
+> MySQL
 
 ### Installing
 
