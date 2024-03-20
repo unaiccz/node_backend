@@ -3,8 +3,8 @@
 import db from "../database/db.js";
 import { DataTypes } from "sequelize";
 
-const BlogModel = db.define('messages',{
-    emisor:{
+const BlogModel = db.define('notas',{
+    Title:{
         type: DataTypes.STRING,
         allowNull: false
     },
