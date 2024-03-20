@@ -14,7 +14,7 @@ const app = express();
 app.use(express.json());
 
 // Usamos el middleware de router en la ruta '/blogs'. Todas las rutas definidas en 'router' se montarán en esta ruta
-app.use('/blogs',router);
+app.use('/notas',router);
 
 // Intentamos autenticarnos con la base de datos
 try{
