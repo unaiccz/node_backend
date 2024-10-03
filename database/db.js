@@ -5,7 +5,7 @@ import { Sequelize } from "sequelize";
 // Los argumentos son: el nombre de la base de datos ('notas'), el nombre de usuario ('root'), la contraseña ('011110') y un objeto de opciones
 const db = new Sequelize('notas','root','011110',{
     // En las opciones, especificamos que el host de la base de datos es 'localhost'
-    host: 'localhost',
+    host: 'localhost:',
     // Y que el dialecto (es decir, el tipo de base de datos SQL) es 'mysql'
     dialect: 'mysql',
 })
